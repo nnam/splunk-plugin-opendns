@@ -1,4 +1,10 @@
 '''
+Copywright 2014 Nicholas Nam. All rights reserved.
+Use of this source code is governed by the GPLv3
+license that can be found in the LICENSE file.
+'''
+
+'''
 OpenDNS Modular Input Script
 
 Nicholas Nam
